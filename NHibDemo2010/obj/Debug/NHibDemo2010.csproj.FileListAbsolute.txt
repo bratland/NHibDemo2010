@@ -1,0 +1,13 @@
+c:\users\anders\documents\visual studio 2010\Projects\NHibDemo2010\NHibDemo2010\obj\Debug\NHibDemo2010.csprojResolveAssemblyReference.cache
+c:\users\anders\documents\visual studio 2010\Projects\NHibDemo2010\NHibDemo2010\bin\NHibDemo2010.dll
+c:\users\anders\documents\visual studio 2010\Projects\NHibDemo2010\NHibDemo2010\bin\NHibDemo2010.pdb
+c:\users\anders\documents\visual studio 2010\Projects\NHibDemo2010\NHibDemo2010\bin\EntityFramework.dll
+c:\users\anders\documents\visual studio 2010\Projects\NHibDemo2010\NHibDemo2010\bin\FluentNHibernate.dll
+c:\users\anders\documents\visual studio 2010\Projects\NHibDemo2010\NHibDemo2010\bin\Iesi.Collections.dll
+c:\users\anders\documents\visual studio 2010\Projects\NHibDemo2010\NHibDemo2010\bin\NHibernate.dll
+c:\users\anders\documents\visual studio 2010\Projects\NHibDemo2010\NHibDemo2010\bin\EntityFramework.xml
+c:\users\anders\documents\visual studio 2010\Projects\NHibDemo2010\NHibDemo2010\bin\FluentNHibernate.xml
+c:\users\anders\documents\visual studio 2010\Projects\NHibDemo2010\NHibDemo2010\bin\Iesi.Collections.xml
+c:\users\anders\documents\visual studio 2010\Projects\NHibDemo2010\NHibDemo2010\bin\NHibernate.xml
+c:\users\anders\documents\visual studio 2010\Projects\NHibDemo2010\NHibDemo2010\obj\Debug\NHibDemo2010.dll
+c:\users\anders\documents\visual studio 2010\Projects\NHibDemo2010\NHibDemo2010\obj\Debug\NHibDemo2010.pdb
